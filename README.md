@@ -51,6 +51,11 @@ Source: German Credit Data (via: Kaggle)
   - Loan duration
   - Credit amount
   - Age
+ 
+
+Below is the performance comparison between Logistic Regression and Random Forest across different decision thresholds:
+
+![Model Results](results.png)
 
 # Business Insight
 Model performance is evaluated not only through global metrics, but also through its economic impact.
