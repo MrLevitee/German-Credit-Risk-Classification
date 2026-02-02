@@ -1,5 +1,5 @@
 # German-Credit-Risk-Classification
-Comparativa de modelos de Machine Learning (Random Forest vs Logistic Regression) para la detección de riesgo crediticio, optimizando el umbral de decisión para reducir pérdidas financieras.
+Comparison of Machine Learning models (Random Forest vs Logistic Regression) for detecting credit risk, optimizing the decision threshold to reduce financial losses.
 
 # Overview
 This project implements a full machine learning pipeline to assess credit risk and support automated loan approval decisions. By comparing Logistic Regression (interpretable baseline) and Random Forest (non-linear model), the goal is to identify the best approach to balance risk mitigation with business growth.
